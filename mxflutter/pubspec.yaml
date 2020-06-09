@@ -16,7 +16,7 @@ dependencies:
   expressions: ^0.1.2
 
   # 开发者选用的库
-  dio: ^3.0.9
+  dio: ^2.0.0
   pull_to_refresh: ^1.5.7
   cached_network_image: ^2.2.0+1
   shared_preferences: ^0.5.6+3
